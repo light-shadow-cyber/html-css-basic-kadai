@@ -1,8 +1,7 @@
 #top{
   width: 800px;
   background-color: #dcc9f4;
-  margin-top: 20px;  
-  margin-bottom: 20px;
+  margin: 20px auto;
   text-align: center ;
 }
 .top-child{
@@ -13,8 +12,7 @@
 #middle{
   width: 800px;
   height: 800px;
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin: 20px auto;
   background-color: #ffd9df;
   position: relative;
 }
@@ -45,8 +43,9 @@
 #bottom{
   width: 800px;
   height: 300px;
-  text-align: center ;
-  background-color: #87ceed;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #87ceeb;
 }
 #bottom-child01{
   width: 400px;
